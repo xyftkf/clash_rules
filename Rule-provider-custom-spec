@@ -2,6 +2,6 @@
 # AUTHOR: xyftkf
 # UPDATED: 2024-03-04 20:49:35
 payload:
-  - DOMAIN-KEYWORD,modsfire
-  - DOMAIN-KEYWORD,cloudflare
-  - DOMAIN-KEYWORD,google
+  #- DOMAIN-KEYWORD,modsfire
+  #- DOMAIN-KEYWORD,cloudflare
+  #- DOMAIN-KEYWORD,google
