@@ -5,3 +5,4 @@ payload:
   #- DOMAIN-KEYWORD,modsfire
   #- DOMAIN-KEYWORD,cloudflare
   #- DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,ipsw.me
