@@ -12,3 +12,7 @@ payload:
   - DOMAIN-KEYWORD,okx.com
   - DOMAIN-SUFFIX,cocos.com
   - DOMAIN-SUFFIX,cocos.org
+  - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-SUFFIX,oray.org
+  - DOMAIN-SUFFIX,oray.cn
+  - DOMAIN-SUFFIX,oray.net
