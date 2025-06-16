@@ -6,3 +6,4 @@ payload:
   #- DOMAIN-KEYWORD,cloudflare
   #- DOMAIN-KEYWORD,google
   #- DOMAIN-SUFFIX,ipsw.me
+  - DOMAIN-SUFFIX,sis001.com
