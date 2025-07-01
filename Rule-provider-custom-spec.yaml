@@ -8,3 +8,4 @@ payload:
   #- DOMAIN-SUFFIX,ipsw.me
   - DOMAIN-SUFFIX,sis001.com
   - DOMAIN-KEYWORD,missav
+  - DOMAIN-SUFFIX,jenkins-ci.org
