@@ -2,7 +2,7 @@
 # AUTHOR: xyftkf
 # UPDATED: 2024-03-04 20:49:35
 payload:
-  #- DOMAIN-KEYWORD,yhfengtao
+  - DOMAIN-KEYWORD,yhfengtao
   - DOMAIN-SUFFIX,gxnas.com
   - DOMAIN-SUFFIX,100lai.com
   - DOMAIN-SUFFIX,geetest.com
@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,linkease.com
   - DOMAIN-SUFFIX,dreame.com
+  - DOMAIN-SUFFIX,gamexinshuixin.com
