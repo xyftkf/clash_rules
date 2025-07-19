@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,sis001.com
   - DOMAIN-KEYWORD,missav
   - DOMAIN-SUFFIX,jenkins-ci.org
+  - DOMAIN-SUFFIX,jsdelivr.net
