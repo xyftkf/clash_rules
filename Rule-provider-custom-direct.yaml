@@ -22,4 +22,5 @@ payload:
   - DOMAIN-SUFFIX,dreame.com
   - DOMAIN-SUFFIX,gamexinshuixin.com
   - DOMAIN-SUFFIX,cloudwego.io
-  - DOMAIN-SUFFIX,goframe.org
+  - DOMAIN-KEYWORD,goframe.org
+  - DOMAIN-KEYWORD,tplink
