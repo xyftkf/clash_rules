@@ -8,20 +8,15 @@ payload:
   - DOMAIN-SUFFIX,geetest.com
   - DOMAIN-SUFFIX,anji-plus.com
   - DOMAIN-SUFFIX,nubia.com
-  - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-KEYWORD,oray
   - DOMAIN-KEYWORD,okx.com
-  - DOMAIN-SUFFIX,cocos.com
-  - DOMAIN-SUFFIX,cocos.org
-  - DOMAIN-SUFFIX,oray.com
-  - DOMAIN-SUFFIX,oray.org
-  - DOMAIN-SUFFIX,oray.cn
-  - DOMAIN-SUFFIX,oray.net
+  - DOMAIN-KEYWORD,cocos
   - DOMAIN-KEYWORD,douyin
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,linkease.com
   - DOMAIN-SUFFIX,dreame.com
   - DOMAIN-SUFFIX,gamexinshuixin.com
   - DOMAIN-SUFFIX,cloudwego.io
-  - DOMAIN-KEYWORD,goframe.org
+  - DOMAIN-KEYWORD,goframe
   - DOMAIN-KEYWORD,tplink
   - DOMAIN-KEYWORD,xiaomi
