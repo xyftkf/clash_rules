@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,cloudwego.io
   - DOMAIN-KEYWORD,goframe.org
   - DOMAIN-KEYWORD,tplink
+  - DOMAIN-KEYWORD,xiaomi
