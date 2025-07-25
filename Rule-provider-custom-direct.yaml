@@ -20,3 +20,4 @@ payload:
   - DOMAIN-KEYWORD,goframe
   - DOMAIN-KEYWORD,tplink
   - DOMAIN-KEYWORD,xiaomi
+  - DOMAIN-SUFFIX,dev.com
