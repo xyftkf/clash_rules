@@ -21,3 +21,4 @@ payload:
   - DOMAIN-KEYWORD,tplink
   - DOMAIN-KEYWORD,xiaomi
   - DOMAIN-SUFFIX,dev.com
+  - DOMAIN-SUFFIX,xinshuixin.com
