@@ -2,11 +2,10 @@
 # AUTHOR: xyftkf
 # UPDATED: 2024-03-04 20:49:35
 payload:
-  #- DOMAIN-KEYWORD,modsfire
-  #- DOMAIN-KEYWORD,cloudflare
-  #- DOMAIN-KEYWORD,google
-  #- DOMAIN-SUFFIX,ipsw.me
+  - DOMAIN-SUFFIX,ipsw.me
   - DOMAIN-SUFFIX,sis001.com
-  - DOMAIN-KEYWORD,missav
   - DOMAIN-SUFFIX,jenkins-ci.org
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,jable.tv
+
+  - DOMAIN-KEYWORD,missav
