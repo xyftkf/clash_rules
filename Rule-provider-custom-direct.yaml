@@ -2,22 +2,23 @@
 # AUTHOR: xyftkf
 # UPDATED: 2024-03-04 20:49:35
 payload:
-  - DOMAIN-KEYWORD,yhfengtao
   - DOMAIN-SUFFIX,gxnas.com
   - DOMAIN-SUFFIX,100lai.com
   - DOMAIN-SUFFIX,geetest.com
   - DOMAIN-SUFFIX,anji-plus.com
-  - DOMAIN-KEYWORD,nubia
-  - DOMAIN-KEYWORD,oray
-  - DOMAIN-KEYWORD,okx.com
-  - DOMAIN-KEYWORD,cocos
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,linkease.com
   - DOMAIN-SUFFIX,dreame.com
   - DOMAIN-SUFFIX,gamexinshuixin.com
   - DOMAIN-SUFFIX,cloudwego.io
+  - DOMAIN-SUFFIX,dev.com
+  - DOMAIN-SUFFIX,xinshuixin.com
+
+  - DOMAIN-KEYWORD,yhfengtao
+  - DOMAIN-KEYWORD,nubia
+  - DOMAIN-KEYWORD,oray
+  - DOMAIN-KEYWORD,okx.com
+  - DOMAIN-KEYWORD,cocos
   - DOMAIN-KEYWORD,goframe
   - DOMAIN-KEYWORD,tplink
   - DOMAIN-KEYWORD,xiaomi
-  - DOMAIN-SUFFIX,dev.com
-  - DOMAIN-SUFFIX,xinshuixin.com
