@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,cloudwego.io
   - DOMAIN-SUFFIX,dev.com
   - DOMAIN-SUFFIX,xinshuixin.com
+  - DOMAIN-SUFFIX,tianiot.com
 
   - DOMAIN-KEYWORD,yhfengtao
   - DOMAIN-KEYWORD,nubia
