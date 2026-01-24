@@ -7,5 +7,4 @@ payload:
   - DOMAIN-SUFFIX,jenkins-ci.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jable.tv
-
-  - DOMAIN-KEYWORD,missav
+  - DOMAIN-SUFFIX,missav.ai
