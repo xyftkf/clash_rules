@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,dev.com
   - DOMAIN-SUFFIX,xinshuixin.com
   - DOMAIN-SUFFIX,tianiot.com
+  - DOMAIN-SUFFIX,xzray.top
 
   - DOMAIN-KEYWORD,yhfengtao
   - DOMAIN-KEYWORD,nubia
