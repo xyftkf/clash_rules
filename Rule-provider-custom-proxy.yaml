@@ -1,6 +1,11 @@
 # NAME: custom_rules
 # AUTHOR: xyftkf
 # UPDATED: 2025-08-21 15:01:36
-payload:
-  - SRC-IP-CIDR,192.168.100.249/24,🇱🇦 洛杉矶
-  - SRC-IP-CIDR,192.168.100.1/24,DIRECT
+proxies:
+  - name: "纯净住宅代理节点"
+    type: socks5
+    server: 165.254.118.71
+    port: 8022
+    username: axcdesxwaq
+    password: ortmitymoowmeo
+    udp: true
