@@ -25,5 +25,6 @@ payload:
   - DOMAIN-KEYWORD,goframe
   - DOMAIN-KEYWORD,tplink
   - DOMAIN-KEYWORD,xiaomi
+  - DOMAIN-KEYWORD,gitcode
 
   - IP-CIDR,47.239.137.42/32,DIRECT
